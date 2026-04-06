@@ -1,1 +1,1 @@
-return loadstring(game:HttpGet("https://raw.githubusercontent.com/wvf8/sigmaboy/main/main.lua", true))()
+return loadstring(game:HttpGet("https://raw.githubusercontent.com/wvf8/Sigmaboy/refs/heads/main/Main.lua", true))()
